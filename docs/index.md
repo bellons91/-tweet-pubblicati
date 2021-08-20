@@ -1,6 +1,8 @@
 # List of tweets
 
 By month:
+
+
 [Luglio 2021](./tweets-2021-07.md)
 
 [Giugno 2021](./tweets-2021-06.md)
@@ -13,6 +15,8 @@ By month:
 
 
 ## Luglio 2021
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even choosing a slightly different variable name can improve your code: think of `usersList` vs `users` vs `usersCollection`. <br><br>• `usersList` implies that the data structure is a list<br><br>• `users` is just generic, and often is fine<br><br>• `usersCollection` is redundant</p>&mdash; Davide Bellone 🌊 🗡 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1421168721263939584?ref_src=twsrc%5Etfw">July 30, 2021</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your application context influences your naming strategy👨‍🏫<br> <br>If you are managing physical factories, you should not create a FactoryFactory class: find a synonym to avoid misinterpretation.<br><br>Maybe PlantFactory? Or FactoryBuilder?<br><br>Writing clean code is not always easy!</p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1420806326507216906?ref_src=twsrc%5Etfw">July 29, 2021</a></blockquote> 
 
@@ -235,7 +239,3 @@ By month:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Writing a function? Follow these steps<br><br>1️⃣ Choose a better name<br><br>2️⃣ Make the function smaller<br><br>3️⃣ Repeat <br><br>Classes should be built on top of small, easy-to-compone functions.<br>*but don&#39;t overdo! not every instruction must be a function!*<a href="https://twitter.com/hashtag/DEVCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#DEVCommunity</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1371385682489409542?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> 
 
-
-
- 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
