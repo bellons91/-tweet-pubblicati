@@ -1,5 +1,7 @@
 # List of tweets
 
+* 2022
+  * [Gennaio 2022](./2022-01.md)
 
 * 2021
   * [Dicembre 2021](./2021-12)
